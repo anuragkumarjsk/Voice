@@ -46,8 +46,9 @@ Block quotes
 
 ### todolist
 
-  [x] task 1
-  [ ] task 2
+- [x] This is a complete item
+- [ ] This is an incomplete item
 
 # image
+
 ![image](https://user-images.githubusercontent.com/25719595/134165814-5cb76f8f-65d9-431e-bb92-ce7b30a6c036.png)
