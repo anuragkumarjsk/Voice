@@ -27,12 +27,12 @@ This project uses the react-speech-recognition library to take input
 - innermost child 1
 - innermost child 2
 
-1. list element 1
-2. list element 2
-   2.1 sublist 1
-   2.2 sublist 2
-   2.2.1 innermost child 1
-   2.2.2 innermost child 2
+- 1. list element 1
+- 2. list element 2
+  - 2.1 sublist 1
+  - 2.2 sublist 2
+    - 2.2.1 innermost child 1
+    - 2.2.2 innermost child 2
 
 -dash
 -subdash
